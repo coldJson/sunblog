@@ -1,0 +1,7 @@
+实现技术：
+1. webpack+vue.js+typescript
+2. node.js/django(计划两套，先用node.js,在用django实现)
+3. mongodb
+4.真正服务器的部署，还需要思考
+
+用node.js是否考虑用ts代替
